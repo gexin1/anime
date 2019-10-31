@@ -13,7 +13,19 @@
 
 ### 刀剑神域
 <img height='200' src='./assets/images/djsy-1.jpeg'>
+
+### 刀剑神域 Alicization
+
+### 刀剑神域 爱丽丝篇 异界战争
 <img height='200' src='./assets/images/djsy-2.jpg'>
+
+### 鬼灭之刃
+
+### 关于我转生变成史莱姆这档事
+
+### 喜欢本大爷的竟然就你一个？
+
+<img height='200' src='./assets/images/xhbdydzynyg-1.jpg'>
 
 ### 中国惊奇先生
 
