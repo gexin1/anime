@@ -29,9 +29,12 @@
 
 ### 中国惊奇先生
 
+<img height='200' src='./assets/images/zgjqxs-1.jpg'>
+
 ### 秦时明月
 
 ### 镇魂街
+<img height='200' src='./assets/images/zhj-1.jpg'>
 
 ### 画江湖之换世门生
 
@@ -40,3 +43,5 @@
 ### 狐妖小红娘
 
 ### 迷域行者
+
+### 刺客五六七
