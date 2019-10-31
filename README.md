@@ -32,6 +32,8 @@
 <img height='200' src='./assets/images/zgjqxs-1.jpg'>
 
 ### 秦时明月
+<img height='200' src='./assets/images/qsmy-1.jpg'>
+<!-- <img height='200' src='./assets/images/qsmy-2.jpg'> -->
 
 ### 镇魂街
 <img height='200' src='./assets/images/zhj-1.jpg'>
