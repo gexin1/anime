@@ -1,4 +1,8 @@
 # anime
+### RE从零开始的异世界生活
+<img height='200' src='./assets/images/timg.jpg'>
+<img height='200' src='./assets/images/u=665664149,3837635492&fm=26&gp=0.jpg'>
+
 
 ### fate系列
 <img height='200' src='./assets/images/fate-1.jpg'>
